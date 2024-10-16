@@ -1,1 +1,1 @@
-My bachelor's thesis in economics (in Danish) and its associated codes.
+My bachelor's thesis in economics (in Danish) and its associated dynare codes.
